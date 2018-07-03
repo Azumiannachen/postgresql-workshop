@@ -10,6 +10,7 @@
 * why SQL? what can you do with it?
 * why the relational model?
 * why PostgreSQL instead of other databases?
+*Why use PostgreSQL, not MySQL? 
   * datatypes (JSON)
   * GIS (Geographical Information System search)
 * Stored Procedures (SQL, PL/SQL, Python)
